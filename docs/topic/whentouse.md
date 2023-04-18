@@ -7,12 +7,12 @@ This page is a brief guide to determining whether to use The Littlest JupyterHub
 Many of these ideas were first laid out in a
 [blog post announcing TLJH](http://words.yuvi.in/post/the-littlest-jupyterhub/).
 
-[\*\*The Littlest JupyterHub (TLJH)\*\*](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) is an opinionated and pre-configured distribution
+[**The Littlest JupyterHub (TLJH)**](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) is an opinionated and pre-configured distribution
 to deploy a JupyterHub on a **single machine** (in the cloud or on your own hardware).
 It is designed to be a more lightweight and maintainable solution
 for use-cases where size, scalability, and cost-savings are not a huge concern.
 
-[\*\*Zero to JupyterHub on Kubernetes\*\*](https://zero-to-jupyterhub.readthedocs.io/en/latest/) allows you
+[**Zero to JupyterHub on Kubernetes**](https://zero-to-jupyterhub.readthedocs.io/en/latest/) allows you
 to deploy JupyterHub on **Kubernetes**. This allows JupyterHub to scale to many thousands
 of users, to flexibly grow/shrink the size of resources it needs, and to use
 container technology in administering user sessions.
